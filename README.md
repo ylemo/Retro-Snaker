@@ -1,5 +1,4 @@
-# Retro-Snaker
+Retro-Snaker
 ======
 
-c Retro Snaker
-```java 
+
